@@ -19,7 +19,11 @@
   "dependencies": {
     "express": "^4.16.4",
     "express-graphql": "^0.7.1",
-    "graphql": "^14.1.1",
-    "mongoose": "^5.4.6"
+    "graphql": "^14.7.0",
+    "graphql-request": "^3.3.0",
+    "mongoose": "^5.11.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
